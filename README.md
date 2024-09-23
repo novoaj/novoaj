@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared Novoa</h1>
-<h3 align="center">A Full Stack Developer based out of Phoenix, AZ</h3>
+<h3 align="center">A Software Engineer based out of Phoenix, AZ</h3>
 
 - 🌱 I’m currently learning **Django, Nextjs, TypeScript, Tailwindcss**
 
@@ -16,7 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novoaj&show_icons=true&locale=en&layout=compact" alt="novoaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novoaj&show_icons=true&locale=en" alt="novoaj" /></p>
 
 <!--
 **novoaj/novoaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
