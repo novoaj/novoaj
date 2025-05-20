@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jared Novoa</h1>
 <h3 align="center">A Software Engineer based out of Phoenix, AZ</h3>
 
-- 🌱 I’m currently learning **Django, Nextjs, TypeScript, Tailwindcss**
+- 🌱 I’m currently learning **FastAPI, Nextjs**
 
 - 📫 How to reach me **novoa.jt1@gmail.com**
 
